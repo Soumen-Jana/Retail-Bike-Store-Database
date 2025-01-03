@@ -14,3 +14,9 @@ Tables Represented:
 - Staffs: Details of staff managing the stores.
 - Stocks: Inventory levels across stores.
 - Stores: Physical locations of the retail outlets.
+
+
+ ## Files
+- **`Bike_Store database.sql `**: Scripts for database schema and data insertion.
+- **`bike_store_Queries.sql`**: SQL queries addressing real-world retail Bike_Stores scenarios.
+- **`Bike_Store PPT.pptx`** : Showcasing the entire work as ppt.
